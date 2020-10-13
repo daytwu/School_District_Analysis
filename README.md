@@ -30,16 +30,21 @@ After Cleaning
 
 <img width="744" alt="Per_School_Summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95883713-3f421080-0d49-11eb-8575-aec04ae159cd.png">
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The school summary's change was more noticeable in that the metrics was not diluted by other schools like the district summary was. In this summary, Thomas High School had a more noticeable difference in which all the metrics dropped (including Average Reading Score). % Overall Passing dropped the most with a .31 points drop with % Passing Reading in the second with a .29 point drop.
 
-How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Math and reading scores by grade
+Replacing the ninth graders' math and reading score had lowered Thomas High School's performance standing if comparing to itself only. Thomas High School's performance relative to the other schools in this district has not been affected much. The aforementioned .31 point drop in % Overall Passing did not lower it enough to drop from the Top 5 Schools dataframe as it is still .04 points higher than the school right below Thomas High School, which is Griffin High School at 90.59.
 
-Scores by school spending
 
-Scores by school size
+### How does replacing the ninth-grade scores affect the following:
 
-Scores by school type
+- Math and reading scores by grade
+
+- Scores by school spending
+
+- Scores by school size
+
+- Scores by school type
 
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
