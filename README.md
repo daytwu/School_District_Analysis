@@ -50,8 +50,18 @@ After Cleaning
 
 ![math_and_reading_avg_by_grade_after_cleaning](https://user-images.githubusercontent.com/68725398/95907876-3ada1f80-0d6a-11eb-9c2d-0777d5fa8a65.png)
 
+Although this was not specificly requested as a metric, we can find the overall grade average for both math and reading when we group the school_data_complete_df by grade. The only data that was replaced was the ninth-grade's reading and math scores, so the only grade that has any noticeable change would be 9th grade. 
+
+Looking at the above series for the math and reading average, the drop is consistent with the rest of the dataframes when it comes to looking at things from a per school summary perspective or as a whole in the district summary. Math average seems to be have a bigger drop compared to Reading average, with a .2 point drop for math compared to a .08 point drop for reading.
 
 - Scores by school spending
+
+Before Cleaning
+
+![Spending_summary_before_cleaning](https://user-images.githubusercontent.com/68725398/95911170-1df41b00-0d6f-11eb-894e-305f0a2b5387.png)
+
+After Cleaning
+![Spending_summary_after_cleaning](https://user-images.githubusercontent.com/68725398/95911175-1f254800-0d6f-11eb-8bd2-0eafb64e40ce.png)
 
 - Scores by school size
 
