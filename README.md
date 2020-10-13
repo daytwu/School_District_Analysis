@@ -6,9 +6,12 @@
 
 ### How is the district summary affected?
 
+
 Before Cleaning
 
 <img width="695" alt="District_Summary_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95883284-c2af3200-0d48-11eb-89b5-d325101ad11e.png">
+
+
 
 After Cleaning
 
