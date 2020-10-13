@@ -41,6 +41,14 @@ Replacing the ninth graders' math and reading score had lowered Thomas High Scho
 
 - Math and reading scores by grade
 
+Before Cleaning
+
+![math_and_reading_avg_by_grade_before_cleaning](https://user-images.githubusercontent.com/68725398/95907868-3a418900-0d6a-11eb-8f10-260d4f3615a0.png)
+
+
+After Cleaning
+
+![math_and_reading_avg_by_grade_after_cleaning](https://user-images.githubusercontent.com/68725398/95907876-3ada1f80-0d6a-11eb-9c2d-0777d5fa8a65.png)
 - Scores by school spending
 
 - Scores by school size
