@@ -61,6 +61,7 @@ Before Cleaning
 ![Spending_summary_before_cleaning](https://user-images.githubusercontent.com/68725398/95911170-1df41b00-0d6f-11eb-894e-305f0a2b5387.png)
 
 After Cleaning
+
 ![Spending_summary_after_cleaning](https://user-images.githubusercontent.com/68725398/95911175-1f254800-0d6f-11eb-8bd2-0eafb64e40ce.png)
 
 - Scores by school size
