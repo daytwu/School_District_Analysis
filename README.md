@@ -49,6 +49,8 @@ Before Cleaning
 After Cleaning
 
 ![math_and_reading_avg_by_grade_after_cleaning](https://user-images.githubusercontent.com/68725398/95907876-3ada1f80-0d6a-11eb-9c2d-0777d5fa8a65.png)
+
+
 - Scores by school spending
 
 - Scores by school size
