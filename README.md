@@ -17,6 +17,8 @@ After Cleaning
 
 <img width="692" alt="District_Summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95883331-ccd13080-0d48-11eb-924b-2a1318c21746.png">
 
+The district summary is affected in that all the metrics other than Average Reading Score had dropped 0.1 to 0.3 points. % Overall Passing was the biggest drop, at 0.3 points, since it factors in both the % Passing Math and % Passing Reading.
+
 
 ### How is the school summary affected?
 
