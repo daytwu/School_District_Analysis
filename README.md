@@ -64,6 +64,8 @@ After Cleaning
 
 ![Spending_summary_after_cleaning](https://user-images.githubusercontent.com/68725398/95911175-1f254800-0d6f-11eb-8bd2-0eafb64e40ce.png)
 
+Here we have two dataframes for data categorized by the school spending ranges (per student). Thomas High School falls under the $630-644 range, so this will be what we are focusing on. 
+
 - Scores by school size
 
 - Scores by school type
