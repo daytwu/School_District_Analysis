@@ -64,9 +64,17 @@ After Cleaning
 
 ![Spending_summary_after_cleaning](https://user-images.githubusercontent.com/68725398/95911175-1f254800-0d6f-11eb-8bd2-0eafb64e40ce.png)
 
-Here we have two dataframes for data categorized by the school spending ranges (per student). Thomas High School falls under the $630-644 range, so this will be what we are focusing on. 
+Here we have two dataframes for data categorized by the school spending ranges (per student). Thomas High School falls under the $630-644 range, so this will be what section that gets focus. Among the listed metrics here, all categories received a drop in points except for Average Reading Score, which went up by .01 point. This shows that replacing the 9th Grade Reading scores actually brought up the average of all schools within the $630-644 spending range, unlike the other categories.
 
 - Scores by school size
+
+Before Cleaning
+
+<img width="558" alt="Size_summary_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95942989-9d570e00-0db2-11eb-9865-ebd5b2441850.png">
+
+After Cleaning
+
+<img width="557" alt="Size_summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95942994-a1832b80-0db2-11eb-82d4-9ae94e6ca1fa.png">
 
 - Scores by school type
 
