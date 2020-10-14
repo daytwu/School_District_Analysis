@@ -76,6 +76,17 @@ After Cleaning
 
 <img width="557" alt="Size_summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95942994-a1832b80-0db2-11eb-82d4-9ae94e6ca1fa.png">
 
+There are two notable changes in the above two dataframes for Size summaries. The first is that the Average Reading Score had went up after cleaning the 9th grade data which is consistent with the previous spending summary dataframes, only this time it was outlined by school size. The second being the drop on % Passing Reading, which although it is still a drop in points, it dipped enough to show difference if rounded up to the nearest tenth of the number. Most metric dataframes that was showcased here will not show a change if it was rounded up to a tenth of the number, with this being an noticeable exception for this scenario only.
+
 - Scores by school type
+
+Before cleaning
+
+<img width="534" alt="Type_summary_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95943734-9f21d100-0db4-11eb-9896-bca2bbdeb371.png">
+
+After Cleaning
+
+<img width="533" alt="Type_summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95943741-a21cc180-0db4-11eb-9af4-b95fff83609f.png">
+
 
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
