@@ -58,7 +58,7 @@ Replacing the ninth graders' math and reading score had lowered Thomas High Scho
 
 ![math_and_reading_avg_by_grade_after_cleaning](https://user-images.githubusercontent.com/68725398/95907876-3ada1f80-0d6a-11eb-9c2d-0777d5fa8a65.png)
 
-Although this was not specificly requested as a metric, we can find the overall grade average for both math and reading when we group the school_data_complete_df by grade. The only data that was replaced was the ninth-grade's reading and math scores, so the only grade that has any noticeable change would be 9th grade. 
+Although data was not requested to be made into a dataframe, we can find the overall grade average for both math and reading when we group the school_data_complete_df by grade. The only data that was replaced was the ninth-grade's reading and math scores, so the only grade that has any noticeable change would be 9th grade. 
 
 Looking at the above series for the math and reading average, the drop is consistent with the rest of the dataframes when it comes to looking at things from a per school summary perspective or as a whole in the district summary. Math average seems to be have a bigger drop compared to Reading average, with a .2 point drop for math compared to a .08 point drop for reading.
 
