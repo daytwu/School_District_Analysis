@@ -88,5 +88,14 @@ After Cleaning
 
 <img width="533" alt="Type_summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95943741-a21cc180-0db4-11eb-9af4-b95fff83609f.png">
 
+Thomas High School is a Charter School, so this will be the section to focus on. As with previous dataframes, Average Reading Score rose after the cleaning and all other categories dropped.
 
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+The four major changes appears to be that:
+
+- 1) Average Reading Score has consistently went up when looking at dataframes categorized by spending, size or school types. This shows that the 9th grade reading scores were negatively affecting and dragging down this category.
+- 2) Most other categories has had a noticeable drop if looking at it without formatting it to a tenth of a number, which can also mean that this change isn't impacting the metrics enough if not looking at stats so detailed.
+- 3) % Overall Passing has a drop even with categories formatted to a tenth of a number in the district summary. This means that every all dataframes that shows a bit more detailed view of metrics can show the drop in points.
+- 4) Average Math and Reading scores by grades will definitely be affected if all the data are turned into NaN.
+
