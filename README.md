@@ -34,6 +34,14 @@ The school summary's change was more noticeable in that the metrics was not dilu
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+#### Before Cleaning
+
+<img width="749" alt="Top_5_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95948174-1314a700-0dbe-11eb-90b7-a25df173aced.png">
+
+#### After Cleaning
+
+<img width="752" alt="Top_5_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95948181-14de6a80-0dbe-11eb-8466-f6722b10ce35.png">
+
 Replacing the ninth graders' math and reading score had lowered Thomas High School's performance standing if comparing to itself only. Thomas High School's performance relative to the other schools in this district has not been affected much. The aforementioned .31 point drop in % Overall Passing did not lower it enough to drop from the Top 5 Schools dataframe as it is still .04 points higher than the school right below Thomas High School, which is Griffin High School at 90.59.
 
 
