@@ -7,13 +7,11 @@
 ### How is the district summary affected?
 
 
-Before Cleaning
+#### Before Cleaning
 
 <img width="695" alt="District_Summary_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95883284-c2af3200-0d48-11eb-89b5-d325101ad11e.png">
 
-
-
-After Cleaning
+#### After Cleaning
 
 <img width="692" alt="District_Summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95883331-ccd13080-0d48-11eb-924b-2a1318c21746.png">
 
@@ -22,11 +20,11 @@ The district summary is affected in that all the metrics other than Average Read
 
 ### How is the school summary affected?
 
-Before Cleaning
+#### Before Cleaning
 
 <img width="738" alt="Per_School_Summary_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95883706-3cdfb680-0d49-11eb-82a2-a71d3893a7b7.png">
 
-After Cleaning
+#### After Cleaning
 
 <img width="744" alt="Per_School_Summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95883713-3f421080-0d49-11eb-8575-aec04ae159cd.png">
 
@@ -41,12 +39,12 @@ Replacing the ninth graders' math and reading score had lowered Thomas High Scho
 
 - Math and reading scores by grade
 
-Before Cleaning
+#### Before Cleaning
 
 ![math_and_reading_avg_by_grade_before_cleaning](https://user-images.githubusercontent.com/68725398/95907868-3a418900-0d6a-11eb-8f10-260d4f3615a0.png)
 
 
-After Cleaning
+#### After Cleaning
 
 ![math_and_reading_avg_by_grade_after_cleaning](https://user-images.githubusercontent.com/68725398/95907876-3ada1f80-0d6a-11eb-9c2d-0777d5fa8a65.png)
 
@@ -56,11 +54,11 @@ Looking at the above series for the math and reading average, the drop is consis
 
 - Scores by school spending
 
-Before Cleaning
+#### Before Cleaning
 
 ![Spending_summary_before_cleaning](https://user-images.githubusercontent.com/68725398/95911170-1df41b00-0d6f-11eb-894e-305f0a2b5387.png)
 
-After Cleaning
+#### After Cleaning
 
 ![Spending_summary_after_cleaning](https://user-images.githubusercontent.com/68725398/95911175-1f254800-0d6f-11eb-8bd2-0eafb64e40ce.png)
 
@@ -68,11 +66,11 @@ Here we have two dataframes for data categorized by the school spending ranges (
 
 - Scores by school size
 
-Before Cleaning
+#### Before Cleaning
 
 <img width="558" alt="Size_summary_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95942989-9d570e00-0db2-11eb-9865-ebd5b2441850.png">
 
-After Cleaning
+#### After Cleaning
 
 <img width="557" alt="Size_summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95942994-a1832b80-0db2-11eb-82d4-9ae94e6ca1fa.png">
 
@@ -80,11 +78,11 @@ There are two notable changes in the above two dataframes for Size summaries. Th
 
 - Scores by school type
 
-Before cleaning
+#### Before cleaning
 
 <img width="534" alt="Type_summary_before_cleaning" src="https://user-images.githubusercontent.com/68725398/95943734-9f21d100-0db4-11eb-9896-bca2bbdeb371.png">
 
-After Cleaning
+#### After Cleaning
 
 <img width="533" alt="Type_summary_after_cleaning" src="https://user-images.githubusercontent.com/68725398/95943741-a21cc180-0db4-11eb-9af4-b95fff83609f.png">
 
