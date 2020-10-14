@@ -1,8 +1,10 @@
 # School_District_Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis:
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+In this analysis, we are working with Maria, the Chief Data Scientist for the City School Systems. We are assigned multiple tasks to review and analyze the school data in multiple formats, such as fundings and standardized testing scores. These data will help Maria to look into any performance trends and drive discussions along with strategic decision. In turn, this will help the school board decide on budget allocations and decide on further funding priorities within the school system.
+
+## Results:
 
 ### How is the district summary affected?
 
@@ -88,7 +90,7 @@ There are two notable changes in the above two dataframes for Size summaries. Th
 
 Thomas High School is a Charter School, so this will be the section to focus on. As with previous dataframes, Average Reading Score rose after the cleaning and all other categories dropped.
 
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary:
 
 The four major changes appears to be that:
 
